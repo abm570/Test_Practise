@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "amit570/myflask"
-        IMAGE_TAG  = "latest"
+        IMAGE_TAG  = "latets"
     }
 
     stages {
