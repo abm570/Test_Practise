@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "amit570/demo"
+        IMAGE_NAME = "amit570/myflask"
         IMAGE_TAG  = "latest"
     }
 
