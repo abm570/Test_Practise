@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "amit570/myflask"
-        IMAGE_TAG  = "latets"
+        IMAGE_NAME = "amit570/myflask1"
+        IMAGE_TAG  = "1.0"
     }
 
     stages {
